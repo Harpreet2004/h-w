@@ -41,6 +41,10 @@ body{
 .border__Radius-15{
   border-radius: 15px;
 }
+.services-icon{
+  height: 60px;
+  width: auto;
+}
 /* ------------------------------------- Utilities end ----------------------------------------- */
 
 /* ------------------------------ Bootstrap icon utility's start -------------------------------- */
